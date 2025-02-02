@@ -22,7 +22,4 @@ User Profile Manager is a simple web application that allows users to register, 
 - **URL Jumping Attack Prevention**: Prevented unauthorized access to pages (e.g., accessing the profile page without logging in) by checking session status and displaying clear error messages when necessary.
 - **Request Method Handling**: Handled different request methods and prevented unauthorized POST requests from being processed.
 
-## Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
+
